@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./SDS.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+	<div class="header">
+	<img src="SDSLogo.png" class="logo"></div>
+
+	</div>
+	<ul id="navBar">
+
+	<li><a href="#">Home</a></li>
+	<li><a href="/About">About</a></li>
+	<li>Events</li>
+	<li>FAQ</li>
+	<li>Rules</li>
+	<li id="last">Sponsors</li>
+	</ul>
+
+</body>
+</html>

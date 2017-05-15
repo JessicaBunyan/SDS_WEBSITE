@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Blog - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="../css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="../css/article.css">
+	<!-- <link rel="stylesheet" type="text/css" href="../css/real-4th-best.css"> -->
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+
+
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="../index" ><img src="../img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="../index">Home</a></li>
+<li><a href="../about">About</a></li>
+<li><a href="../events">Events</a></li>
+<li ><a class="active" href="../blog">Blog</a></li>
+<li><a href="../players">Players</a></li>
+<li><a href="../rules">Rules</a></li>
+<li id="last"><a href="../partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="test">
+
+		<div class="article">
+			
+			<!-- <div class="left"> -->
+			
+				<!-- <div class="left"> -->
+					<h2 class="article-title">SHIP's Top 5 Tips to Beat Ice Climbers</h2>
+					
+
+			<p class="regular">
+	Ice Climbers can be the bane of many players' tournament lives, at each event there’s at least one person despairing about the Ice Climbers in this pool. This character is not the best, but if you don’t know how to handle this slippery duo it’s easy for them the run away with the game.</p>
+
+<p  class="regular">
+The Ice Climbers matchup is a tricky one for many characters, but here are my five top tips to help you stay safe OUT of the gloved hands of Nana and Popo.
+</p>
+
+<h4>1. Don't Get Grabbed</h4>
+
+<p class="regular">
+Whilst Ice Climbers do have an infinite on all characters, it’s important to remember that you only get wobbled if you get grabbed. The main way Ice Climbers get grabs against inexperienced players is shield grabs. Ice Climbers tend to shield often as the reward for shield grabbing is incredibly high, so you will often be forced to hit their shield. All seven of the top tier characters as well as many low tiers have moves available to them that are safe on shield. 
+</p>
+
+
+<p class="regular">
+An important thing to note is that because Ice Climbers have two shields, the timing for your L-cancel will vary depending upon when you hit them. If you hit both shields simultaneously there is no additional lag, but if you hit one after the other you will incur additional hitstun and have to L-cancel later. 
+			</p>
+
+
+			
+
+
+
+<p class="question">
+Fox & Falco</p>
+<p class="regular">
+Space Animals have aerial into shine which is significantly faster than anything Ice Climbers can do out of shield. 
+
+ </p>
+
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/FortunateCoordinatedBuffalo' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
+ </div>
+
+<p class="regular">
+If the Ice Climbers does nothing you can eat away at their shield leading to a shield stab or if they attempt to attack out of their shield they will be hit by the shine. Because you can jump out of shine very quickly it is incredibly safe. You can either jump away out of the shine or continue to attack using an aerial or multishining. It is important to ensure your aerials hit low on the shield rather than high, because a high aerial  leaves an obvious gap making it easy for the Ice Climbers to grab you. 
+
+</p>
+			
+		
+
+			<p class="question">
+Sheik and Falcon</p>
+
+<p class="regular">Sheik and Falcon have extremely strong forward airs which knock Ice Climbers away due to their extremely low traction meaning they have to spend time moving back into range before they can attack. 
+ </p>
+
+ <div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/ThornyEnviousAntelopegroundsquirrel' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen></iframe>
+ </div>
+
+<p class="regular">
+
+In order to remain safe while using this tactic you should try to act out of your aerial as fast as possible. When knocked away Ice Climbers typically try to wavedash in again, to protect against this you can jump putting yourself in a position to immediately fall down again with an aerial or to jump away.
+</p>
+
+
+<p class="question">
+Marth and Jigglypuff</p>
+
+<p class="regular">
+Marth and Jigglypuff both utilise moves with large range and disjointed hitboxes to attack from beyond the range in which Ice Climbers can punish.</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/InfantileBlissfulBlacknorwegianelkhound' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+This tactic is most effective when you are constantly putting out safe hitboxes. Marths can forward air into down tilt into another forward air repeatedly to keep the Ice Climbers away. Jigglypuffs back air is best when used a significant distance from the Ice Climbers. When the end of back air hits Ice Climbers shield they do not have time to get to you with wavedash out of shield before you can jump away and throw out another back air. With both of these characters it is important to remember that it is your range that keeps you safe, the closer you are too the climbers the higher the risk of a shield grab.
+
+</p>
+
+
+<p class="question">
+Peach </p>
+<p class="regular">
+Peach uses float cancels which have very little lag and are also strong enough to knock Ice Climbers away
+</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/LikableImmaterialAmazontreeboa' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+Peach has strong aerials which land with no more lag than the ordinary 4 frames for landing. She has in many ways the benefits of both Space Animals and Sheik/Falcon. You can fall from the sky with forward air pushing the Ice Climbers back and then jump away again before the shield stun has ended Alternatively you can forward air into dsmash which draws Ice Climbers back in with the multiple hits, damaging the shield often enough to shield stab.
+</p>
+
+
+
+
+<h4>2. Respect the Wavedash</h4>
+
+<p class="regular">
+Ice Climbers’ main movement tool is their wavedash. They have the second longest wavedash in the game and can be used to approach from a significant distance away. Whilst the wavedash is long it does give the climbers 14 frames of lag which can often be enough to get out of the way or put out a defensive hitbox. </p>
+
+<p class="regular">
+Retreating to platforms is a good method of escaping from the Ice climbers as they have strong horizontal movement but poor vertical movement and a slow fall speed. While they do have a large up air to poke at platforms it can still be difficult for them to fight those above them. This is especially true if their opponent is diagonally above them as their moves tend to extend either directly upwards or straight to one side. You can abuse this by standing on the platform above and away from Ice Climbers then dropping through with an aerial when they try wavedash underneath. R23 is an example of a player who makes great use of this strategy.</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/HatefulUnrealisticGenet' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+Remaining diagonally above Ice climbers forces them to keep trying to reposition in order to find a spot where their moves are capable of hitting you.</p>
+
+
+
+
+<h4>3. Don't Be Predictable</h4>
+
+<p class="regular">
+Many people say that Ice Climbers players can smell fear. They know that you don’t want to be stood on the ground with them so they tend to try and reads your movement, sniffing out when you will attack and when you will run. When you jump they can intercept with full hop up-air. When you attack they are waiting with a sneaky up tilt.</p>
+
+<p class="regular">
+If you attack predictably or camp predictably the Ice Climbers will likely find a way to counter you. Always make sure to mix up your timing. Retreat when they expect an attack, then punish their attempt to anti air. Attack when they expect you to jump and you will often catch them trying to up air. Its important to remember that while a given strategy may be very effective, you must still work to remain unpredictable. </p>
+
+<p class="regular">
+This idea also extends to your shield pressure. If you tend to always aerial shine then full hop away, they could jump as you do and hit you with a move such as up air. If you always knee, jab once then dash away, they could wavedash out of shield and catch you out of the dash.</p>
+
+<h4>4. Separate Them</h4>
+
+<p class="regular">
+Nana is only controlled by the Ice Climbers player whilst she remain within the control zone. This area is the same distance in each direction. It is roughly the distance from the side platform on Yoshi’s to the floor just after the stage begins to dip. You can see this because at the inside most edges of the platforms Nana takes input from the Ice Climbers player when Popo is stood beneath her, but towards the outside edge she does not.</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/SelfreliantEmbarrassedGentoopenguin' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+Once outside of this control zone Nana becomes an AI whose intelligence increases with Popo’s percent. At 0% she is near useless and at 100% she is likely to be incredibly annoying with jabs, grabs and smashes. Her main goal is to return to Popo but if you are stood within a few character lengths of her she will often try to fight. When Popo is offstage, at the ledge, or more than about half the stage away Nana cannot tell that he exists at all and will stand helplessly until she can see him again or an opponent approaches.</p>
+
+<p class="regular">
+Nana is extremely easy to kill with a little practice and attention. She does a poor job of defending herself, does not DI and recovers predictably. She will always double jump once she reaches the height of the stage and do nothing else to recover. Once she no longer has her double jump she is incapable of breaking out of tumble and will only drift slowly toward the stage. This predictability and lack of up-B makes it extremely fast and easy to kill Nana.</p>
+
+<p class="regular">
+Because of this it should be your main goal to separate Nana from Popo. If you can put different amounts of percent on the Ice Climbers they will fly different distances and separate them. Doing a move in between the Ice Climbers is another method of separating them as they will fly in different directions. Throws are a good way of separating Ice Climbers, but there is a risk of the other climber hitting you out of the grab or shield grabbing you. 
+</p>
+
+<p class="regular">
+Once you have separated the Ice Climbers and have set your sights on Nana, the main danger is Popo counter hitting you. It's not a smart move to jump off stage to kill Nana if Popo can kill you with an edge guard so it is important to keep an eye on him, or consider knocking him away first. Once you’ve switched on to nana, the most important thing is to watch for her double jump. If she can make it back to stage be sure to hit her off, and if she’s floating to the ledge then make sure to steal it away</p>
+
+<p class="regular">
+	Fox’s shine with its set knockback is an incredibly effective tool for killing Nana after her double jump.
+</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/ObeseAnnualHapuku' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+Almost anything can be used to effectively kill Nana. If she is at a high percent a quick tilt then grabbing the ledge will end her life.
+</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/OddDangerousAidi' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+<p class="regular">
+Back air from the ledge is a strong option with almost every character against Nana and can give the added benefit of a few frames of invincibility to make it more difficult for Popo to interfere. This is a great option if you are unsure whether her double jump will take her back on stage or to the ledge.
+</p>
+
+<div class="gfycat">
+ <iframe src="../img/loading.png" data-src='https://gfycat.com/ifr/SecondHonestEstuarinecrocodile' frameborder='0' scrolling='no' width='640' height='360' allowfullscreen>  </iframe>
+ </div>
+
+
+<p class="regular">
+Nana can also be edge guarded using projectiles. Peach’s turnips, Falco’s lasers, Sheik’s needles and Samus’ missiles are all quite effective if you just fire them at the air where she is going to double jump.
+</p>
+
+<h4>5. Respect Sopo</h4>
+
+<p class="regular">
+Once you have dealt with Nana you are able to fight Popo with no fear of being wobbled. Whilst Popo is worse than the top tier characters he can still present a threat. Most Ice Climbers become faster and trickier in their movement as Sopo, because they do not need to worry about Nana being unable to follow certain movements like dash dancing and perfect wavelands. While Sopo’s moves do far less percent with Nana gone they are still very strong and have good hitboxes. With poor DI you could die to his downsmash as early as 60%, perhaps lower.
+</p>
+
+
+<p class="regular">
+The moves that were strong against both Ice Climbers remain strong against Sopo. By staying to platforms he has a tough time finding an opening. You can also be more liberal in your usage of kill moves as a whiff will no longer mean death. With that said you should still be attempting to remain safe and combo into your kills rather than constantly going for a kill move in neutral. You don’t want to kill off Nana then let down your guard against Sopo. You still don’t want him to grab you as he has a strong grab game against fastfallers and a chaingrab on Sheik</p>
+
+
+<h4>Conclusion</h4>
+
+<p class="regular">
+I hope that this information is useful to players unused to playing against Ice Climbers. Due to the huge threat of wobbling, it is important to be consistent as a single mistake will often cost you a stock. With strong tech skill and knowledge you can abuse Ice Climbers’ weaknesses and avoid a frustrating loss. </p>
+
+
+
+
+
+<hr>
+
+<p class="written-by">
+Guide created by Carl "SHIP" Paradise <a href="http://www.twitter.com/SHIP_Combo">@SHIP_Combo</a><br>
+Edited by Tristan "X1" Bunyan <a href="http://www.twitter.com/SDS_X1">@SDS_X1</a>
+<br>
+
+Many thanks to <a href="http://www.twitch.tv/SmashHouseUK">Smash House</a> and <a href="http://www.twitch.tv/GeekyGoonSquad">GeekyGoonSquad</a> for snippets from their stream.
+</p>
+<p class="written-by">
+If you are interested in writing articles or guides for Team SDS, contact the team via twitter <a href="http://www.twitter.com/SmashDownSouth" >@SmashDownSouth</a>
+</p>
+<hr>
+
+		</div>
+
+		
+
+
+
+		</div>
+	
+
+	</div>
+
+</div>
+
+
+<script src="../js/ships-top-tips.js"> </script>
+
+</body>
+</html>

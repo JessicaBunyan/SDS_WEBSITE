@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Blog - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/blog.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="./img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a class="active" href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+
+
+
+
+
+
+			<div class="article">
+			<!-- <div class="top"> -->
+				<div class="left">
+					<a href ="blogs/Ships-Top-Tips"<div class="article">
+						<h2 class="article-title">SHIP's Top 5 Tips to Beat Ice Climbers</h2>
+					</a>
+					
+
+					<p class="quote" id="quote-ship">
+						'They say that Ice Climbers players can smell fear.''
+					</p>
+
+					<p class="intro">
+						Facing an Ice Climbers in the bracket is a nightmare scenario for many players. In this illustrated guide Carl "SHIP" Paradise breaks down whats needed to turn this matchup from an uphill struggle to a walk in the park.
+					</p>
+					<p class="read-more">
+					<a href="./blogs/Ships-Top-Tips">
+					Read More...
+					</a>
+					</p>
+
+					
+
+				</div>
+
+			<!-- </div> -->
+				<div >
+					<img class="player-image" src="./img/blog/ICsTrophy2.jpg">
+				</div>
+			</div>
+
+
+
+
+
+
+		
+
+
+
+			<div class="article">
+			<!-- <div class="top"> -->
+				<div class="left">
+					<a href ="blogs/real-4th-best-uk">
+						<h2 class="article-title">The Real 4th Best In The UK?</h2>
+					</a>
+					
+					<p class="quote" id="quote-scr11">
+						'£500 is on the line, yet none of the top 3 will be there to take it'
+					</p>
+					<p class="intro">
+						 This might just be the first chance the UK’s up-and-comers have to take home a slice of the hefty prize pool, as well as their fair share of the glory. Here's a look at the players who'll be duking it out for first place at SCR11.
+
+					</p>
+					<p class="read-more">
+					<a href="./blogs/real-4th-best-uk">
+					Read More...
+					</a>
+					</p>
+
+					
+
+				</div>
+
+
+				<div >
+				<a href="./blogs/real-4th-best-uk">
+					<img class="player-image" src="./img/blog/frenzy.png">
+					</a>
+				</div>
+			</div>
+
+
+			
+			<div class="article">
+			<!-- <div class="top"> -->
+				<div class="left">
+					<!-- <a href ="blogs/interview-with-SDS-Tekk"> -->
+					<h2 class="article-title">Interview With SDS | Tekk</h2>
+					<!-- </a> -->
+					
+					<p class="quote" id="quote-tekk">
+						'I consider myself a top 5 player in Europe when I'm on point'
+					</p>
+					<p class="intro">
+						Victor "Tekk" Abdessemed is the newest player to join Team SDS. We spoke with him about his goals as a competitor, and how he plans to start interacting with his fans with his new livestream. 
+
+					</p>
+					<!-- <a href="./blogs/interview-with-SDS-Tekk"> -->
+					<p class="read-more">
+					Coming Soon
+					</p>
+					<!-- </a> -->
+
+					
+
+				</div>
+
+			<!-- </div> -->
+				<div >
+				<!-- <a href="./blogs/interview-with-SDS-Tekk"> -->
+					<img class="player-image" src="./img/blog/tekksmaller.png">
+					<!-- </a> -->
+				</div>
+			</div>
+
+
+
+
+
+
+			
+
+
+
+		</div>
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

@@ -1,0 +1,74 @@
+
+
+img#frenzy{
+
+}
+
+div.top{
+	height: auto;
+}
+div.middle{
+	width: 100%;
+	height: auto;
+	display: inline-block;
+}
+
+
+p#five-hundred{
+	width: 700px;
+	float: middle;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+figure{
+	display: inline-block;
+	float: right;
+	
+	/*height: 600px;*/
+	padding-left: 24px;
+	padding-top: 30px;
+
+}
+
+figure img{
+	vertical-align: top;
+	width: 300px;
+}
+figure figcaption{
+	/*display: block;*/
+	padding-top: 2px;
+	font-family: 'titilliumitalic';
+
+	/*font-style: normal;*/
+	/*font-family: 'titilliumregular';*/
+	text-align: center;
+	font-size: 12pt;
+}
+figcaption em{
+	
+	font-style: normal;
+	font-family: 'titilliumregular';
+	font-size: 14pt;
+}
+
+img.bottom-banner{
+
+width: 100%;
+/*width: 869px;*/
+/*margin-left: 77px;*/
+/*margin-right: auto;*/
+
+}
+
+div.bottom p{
+	float: center;
+	text-align: center;
+	font-size: 24px;
+}
+
+p.bold{
+	font-family: 'titilliumbold';
+	font-size: 20px;
+}

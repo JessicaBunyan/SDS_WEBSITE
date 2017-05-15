@@ -1,0 +1,329 @@
+button.register{
+	/*opacity: 0.8;*/
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 24px;
+	font-family: 'titilliumbold';
+	font-size: 36pt;
+	color: white;
+	height: 100px;
+	width: 400px;
+	/*background: #00d;*/
+	background: #007ACC;
+	border: 0px;
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+  /*border: 5px solid #d00;*/
+  margin-top: 24px;
+}
+a.registerButton{
+	text-decoration: none;
+}
+
+form#SCR8Form{
+	margin: 8px;
+}
+input{
+}
+input[type="checkbox"]{
+	/*margin-bottom: 5px;*/
+}
+label{
+	font-family: 'titilliumbold';
+	color: black;
+	display: block;
+	margin-bottom: 19px;
+}
+label.checkbox{
+	font-family: 'titilliumregular';
+	color: #222;
+}
+label.listItem{
+	margin-bottom: 5px;
+}
+label.checkboxQ{
+	margin-bottom: 0px;
+}
+
+label em{
+	font-family: 'titilliumitalic';
+	color: #666;
+}
+
+
+div.button{
+	display: inline-block;
+	/*width: 19%;*/
+	width: 201px;
+	height: 80px;
+	background: #ddd;
+	border-radius: 5px;
+	text-align: center;
+	font-family: 'titilliumbold';
+}
+div.button.clicked{
+
+	border: 1px solid #000;
+	/*box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ddd, 0 0 0 10px #fff, 0 0 2px 10px #eee;*/
+	
+
+
+}
+div.button img{
+	/*margin: 0 auto;*/
+	width: 40px;
+	height: 40px;
+	margin-top: 5px;
+
+}
+
+img#bus{
+	width: 50px;
+	/*height: 45px;*/
+}
+
+h3.noJS{
+
+	text-align: center;
+
+}
+
+
+h3#participantList{
+	font-size: 36pt;
+	text-align: center;
+}
+
+div.left{
+	float: left;
+	width: 40%;
+}
+
+
+#locationDetails{
+	height: 220px;
+}
+
+div.details#scheduleDetails{
+	height: 160px;
+}
+
+div#formatDetails{
+	height: 280px;
+}
+div#gettingHereDetails{
+	height: 280px;
+}
+
+
+div.details{
+	/*margin: 0 auto;*/
+	/*margin-top: 3px;*/
+	margin-top: 5px;
+	/*margin-left: 20px;*/
+	background: #ddd;
+	width: 1022px;
+	height: 200px;
+	text-align: left;
+	/*border: 1px dashed #ddd;*/
+	/*box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ddd, 0 0 0 10px #fff, 0 0 2px 10px #eee;*/
+	
+}
+div.details h3{
+	font-family: 'titilliumbold';
+	font-size: 1.7em;
+	margin: 5px;
+	text-decoration: underline;
+}
+
+div.details p{
+	/*margin-top: 20px;*/
+	margin: 5px;
+	font-size: 1.4em;
+	text-align: center;
+	/*display: inline-block;*/
+}
+
+div.details div.half{
+	width:49%;
+	height: 75%;
+	display: inline-block;
+	float: left;
+}
+
+div.half h4{
+	font-family: 'titilliumbold';
+	font-size: 1.3em;
+	margin-top: 5px;	
+	text-align: center;
+}
+div.half p{
+	text-align: center;
+}
+div.mapsIcon{
+
+	width: 50px;
+	height: 50px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+
+}
+
+img.mapsIcon{
+	width: 50px;
+	height: 50px;
+}
+
+
+div.divForm{
+	width: 600px;
+	height: 500px;
+	margin: 0 auto;
+	background: url(../img/bg4.jpg);
+	border: 1px dashed #ddd;
+	box-shadow: 0 0 0 3px #fff, 0 0 0 5px #ddd, 0 0 0 10px #fff, 0 0 2px 10px #eee;
+	/*text-align: left;*/
+}
+
+
+button.submit{
+	opacity: 0.8;
+	width: 100px;
+	height: 60px;
+	margin-top: 50px;
+	margin-left: 250px;
+	margin-right: 250px;
+	font-family: 'titilliumbold';
+	font-size: 1.5em;
+	/*font-size: 36pt;*/
+	color: white;
+	background: #00d;
+	-moz-border-radius: 15px;
+    -webkit-border-radius: 15px;
+
+
+}
+button:focus{
+	outline:0;
+}
+
+div.table{
+	width: 1024px;
+	background: url(../img/bioFiller.png);
+	padding-top: 1px;
+	padding-bottom: 1px;
+	margin-bottom: 50px;
+}
+
+div#xContainer{
+	position: relative;
+}
+div#xContainer img{
+	opacity: 0.5;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	width: 40px;
+	height: 40px;
+}
+
+
+
+
+table{
+	width: 980px;
+	background-color: #222;
+	border: 0px;
+	border-collapse: collapse;
+/*	margin-right: 22px;
+	margin-left: 22px;*/
+	margin: 22px;
+	margin-top: 5px;
+
+
+}
+thead{
+	font-family: 'titilliumbold';
+	background-color: #222;
+	text-align: left;
+	border: 0px;
+	margin-bottom: 20px;
+	color: white;
+	font-size: 18pt;
+	text-align: center;
+}
+td{
+	/*background-color: #444;*/
+	border: 0px;
+	margin: 2px;
+	padding: 2px;
+	font-size: 14pt;
+	text-align: center;
+}
+tr.dark{
+
+	background-color: #007ACC;
+}
+tr.light{
+	background-color: #19A3FF;
+}
+
+
+img.transportIcon{
+	width: 80px;
+	height: 80px;
+	margin-left: 210px;
+	margin-right: 210px;
+}
+
+div.half h4.lower{
+	margin-top: 40px;
+	margin-bottom: 10px;
+}
+
+div.button.side{
+	margin-left: 1px;
+}
+
+p#feesDetails{
+	/*position: absolute;*/
+	/*top: 10px;*/
+	/*margin-top: 10px;*/
+	/*height: 250px;*/
+}
+
+div#feesDetails{
+	/*height: 280px;*/
+	height: auto;
+}
+
+p.manualUpdate{
+	text-align: center;
+}
+
+p.spotsRemaining{
+	text-align: right;
+	font-family: 'titilliumbold';
+	color: red;
+	font-size: 18pt;
+	margin-right: 22px;
+	margin-top: 8px;
+	margin-bottom: 0px;
+	padding: 0px;
+	color: #0058AA;
+}
+p.spotsRemaining em{
+	font-size: 32pt;
+	font-style: normal;
+}
+
+
+div.filter{
+	width: 100px;
+	height: 30px;
+	border: 1px solid black;
+
+}

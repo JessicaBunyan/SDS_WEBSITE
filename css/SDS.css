@@ -1,0 +1,190 @@
+    html{
+        color: #000000;        
+        height: 100%;
+        font-family: 'titilliumregular';
+    }
+
+    @font-face{
+        font-family: titilliumregular;
+        src: url(../Font/Titillium-Regular.otf);
+    }
+    @font-face{
+        font-family: titilliumbold;
+        src: url(../Font/Titillium-Bold.otf);
+    }
+    @font-face{
+        font-family: titilliumitalic;
+        src: url(../Font/Titillium-RegularItalic.otf);
+    }
+    @font-face{
+        font-family: titilliumlightitalic;
+        src: url(../Font/Titillium-LightItalic.otf);
+    
+    }
+    body 
+    {
+        margin: 0;
+        height: 100%;
+        /*width: 100%;/**/
+        /*background-image: url(../img/background.png);*/
+        background-image:url(../img/backgroundNew.png), url(../img/background2.png);
+        background-position: center top, center;
+        background-repeat: repeat-y, no-repeat;
+        background-size: 1920px, 19200px;
+    }    
+/*body { background-image:url(../images/bg_body_top.jpg), url(../images/bg_body.jpg); background-position: center top, center; background-repeat: no-repeat, repeat;*/
+    h3
+    {
+        padding: 0px;
+        margin: 0px;
+    }
+    div.thin{
+    width: 851px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+    .logo
+    {
+        width: 250px;
+        padding: 40px;
+        margin-left: -35px;
+    }
+
+
+    div.header
+    {
+        width: 1024px;
+        height: 180px;
+        margin: 0 auto;
+        /*background-color: white;*/
+    }
+ 
+    #navBar  
+    {
+        list-style: none;
+        margin:0;
+        padding: 0;
+        text-align: center;
+        /*background-color: #ddd;*/
+        /*background: url(../img/navBG.png);*/
+        background: url(../img/transparent.png);
+        /*opacity: 0.6;*/
+        height: 43px;
+        border-width: 1px;
+        border-style: block;
+        border-color: black;
+        width: 100%;
+    }
+    #navBar li{
+        display: inline;
+        font-size: 1.2em;
+        padding-left: 20px;
+        padding-right: 20px;
+        color: white;
+
+/*      color: black;*/
+        /*border-right: 1px dotted black;*/
+        border-right: 1px dotted white;
+        line-height: 43px;
+        text-transform: uppercase;
+    }
+    #navBar li#last
+    {
+        border:none;
+    }
+    #navBar a{
+        display:inline-block;
+        padding: 0px;
+        /*color: black;*/
+        color: white;
+        line-height: 40px;
+        text-decoration: none;
+    }
+    #navBar a:hover{
+        color: #bbb;
+    }
+    #navBar a.active{
+        color: #bbb;
+        /*text-shadow: 2px 2px #000;*
+/p        /*font-family: 'titilliumbold';*/
+    }
+
+    /*#navBar a:active{
+        background: #222;
+    }*/
+
+    
+    .centerer
+    {
+    
+    	width: 1018px;
+    	margin: 0 auto;
+        margin-top: 0px;
+    }
+
+    
+
+    .column{
+        display: inline-block;
+        position: relative;
+        margin:0px;
+        width:1024px;
+        height: 1000px;
+        padding-top: 0px;
+        float: left;
+        z-index: 2;
+        /*background: #eee;*/
+        /*border: 3px solid black;*/
+        /*background: url(./transparent.png);*/
+        
+    }
+
+    .spacer{
+        height:50px;
+        opacity: 0.0;
+    }
+
+
+
+img.twitter{
+    height: 20px;
+    width: 30px;
+    padding-left: 5px;
+}
+
+div.footer{
+    position: absolute;
+    bottom: 0px;
+    /*opacity: 0.5;*/
+    border-top: 1px solid black;
+    display: block
+;    height: 50px;
+    width: 100%;
+    text-align: center;
+    /*background: #ccc;*/
+    background: url("../img/bioFiller.png");
+}
+img.footer{
+
+    width: 50px;
+    margin-top: 10px;
+}
+
+
+.clickable:hover{
+    opacity: 0.8;
+    /*cursor: pointer;*/
+}
+
+.hand:hover{
+    cursor: pointer;
+}
+
+/*img{
+    max-width: 100%;
+}*/
+
+/*div{
+    background-size: contain;
+}*/

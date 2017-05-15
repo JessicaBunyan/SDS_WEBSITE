@@ -1,0 +1,145 @@
+.landingBox
+    {
+        width: 1023px;
+        height: 500px;
+        background-size: 100%;
+        margin-bottom: 40px;
+    }
+div.third{
+    width: 333px;
+    height: auto ;
+    display: inline;
+    position: relative;
+    float: left;
+    margin-right: 12px;
+    font-family: 'titilliumregular';
+    margin-bottom: 20px;
+}
+
+div.half{
+    width: 500px;
+    height: 413px;
+    display: inline;
+    position: relative;
+    float: left;
+    margin-right: 23px;
+    font-family: 'titilliumregular';
+    margin-bottom: 20px;
+
+}
+
+img.half{
+    width:500px;
+    height:288px;
+}
+
+img.mini{
+    width: 333px;
+    height: 192px;
+}
+
+div {
+    text-align: left;
+    font-size: 1.1em;
+}
+
+div#last{
+    margin-right: 0px;
+}
+
+h3{
+    font-size: 1.2em;
+}
+
+.twitterBox{
+    float: right;
+    padding-right: 20px;
+    padding-top: 50px;
+    /*background-color: black;*/
+    /*color: white;*/
+}
+
+div.third img{
+    padding-bottom: 12px;
+}
+
+div.mini-container{
+    height: 450px;
+    display: block;
+
+}
+div.mini-container2{
+    height: 400px;
+    display: block;
+
+}
+
+
+div.findOutMore{
+    margin-top: 24px;
+    width: 100%;
+    height: 200px;
+    /*height: auto;*/
+    position: relative;
+    /*display: inline-block;*/
+    display: block;
+
+    margin-bottom: 50px;
+}
+
+
+button.register-here{
+    width: 250px;
+    height: 70px;
+    color: white;
+    background: #007ACC;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+    position: absolute;
+    top: 290px;
+    left: 230px;
+    font-family: 'titilliumbold';
+    border: 0px;
+    font-size: 20pt;
+    cursor: pointer;
+    border: 1px solid black;
+
+}
+
+iframe.yt-vid{
+    padding-bottom: 12px;
+}
+
+p.intro{
+    margin-bottom: 15px;
+}
+
+img.left{
+    float: left;
+    margin-right: 12px;
+    margin-bottom: 30px;
+}
+
+img#bottom-left{
+    margin-right: 22px;
+}
+
+button.learn-more{
+    /*text-align: center;*/
+    font-family: 'titilliumregular';
+    /*position: absolute;*/
+    bottom: 15px;
+    background: #666;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 1em;
+    width: auto;
+    height: 35px;
+    border: 0px;
+    /*margin-left: 110px;*/
+    /*margin-right: 100px;*/
+    cursor: pointer;
+    float: left;
+}

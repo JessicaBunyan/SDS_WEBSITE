@@ -1,0 +1,105 @@
+
+.full{
+	width: 1024px;
+	margin: 0px;
+	padding: 0px;
+
+}
+.half{
+	float: left;
+	width: 500px;
+	margin-right: 24px;
+}
+.translucent{
+	background: url(../img/bioFiller.png);
+}
+
+div.bio{
+	display: inline-block;
+	font-family: 'titilliumbold';
+	height: auto;
+	/*height: 200px;*/
+	margin-bottom: 24px;
+
+}
+
+.top{
+	margin-top: 24px;
+}
+
+
+div.bio p{
+	margin-right: 15px;
+	word-wrap: break-word;
+	margin-left: -10px;
+}
+
+div.last p{
+	margin-left: 0px;
+}
+
+
+div.last{
+	float:left;
+	margin: 0px;
+}
+.bioText{
+	vertical-align: top;
+	float:left;
+	/*position: relative;*/
+	top: 5px;
+	height: 100%;
+	width: 100%;
+	padding: 10px;
+	/*display: block;*/
+}
+.bioImage{
+	float:left;
+	width: 180px;
+	height: 200px;
+	/*overflow: hidden;*/
+
+}
+h3{
+	display: block;
+	padding-bottom: 0px;
+	margin-bottom: 0px;
+}
+hr{
+	margin-top: 0px;
+}
+div.test{
+	height: 880px;
+}
+
+em.bioHeader{
+	font-size: 24px;
+	font-style: normal;
+	font-family: 'titilliumbold';
+}
+em.bioRole{
+	font-size: 14px;
+	font-family: 'titilliumbold';
+}
+
+div p{
+	font-family: 'titilliumitalic';
+	/*font-family: 'titilliumregular';*/
+	text-align: left;
+}
+div.bioSpacer{
+	height: 24px;
+	width: 1024px;
+	display: block;
+}
+
+p#team{
+	position: absolute;
+	/*margin-top: 55px;*/
+	top: 25px;
+	left: 344px;
+}
+
+img.SDSLogo{
+	margin-left: -17px;
+}

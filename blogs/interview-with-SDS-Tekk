@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Blog - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="../css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="../css/article.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="../index" ><img src="../img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="../index">Home</a></li>
+<li><a href="../about">About</a></li>
+<li><a href="../events">Events</a></li>
+<li><a class="active" href="../blog">Blog</a></li>
+<li><a href="../players">Players</a></li>
+<li><a href="../rules">Rules</a></li>
+<li id="last"><a href="../partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="test">
+
+		<div class="article">
+			
+			<!-- <div class="left"> -->
+			<div class="top">
+				<div class="left">
+					<h2 class="article-title">Interview With SDS | Tekk</h2>
+					
+
+					<p class="intro">
+			Victor "Tekk" Abdessemed is the newest player to join Team SDS. We spoke with him about his goals as a competitor, and how he plans to start interacting with his fans with his new livestream.
+
+			</p>
+
+			<p class="quote">
+						"I consider myself a top 5 player in Europe when I'm on point"
+					</p>
+
+				</div>
+
+			<!-- </div> -->
+				<div class="right">
+					<img id="tekk" src="../img/blog/tekksmaller.png">
+				</div>
+			</div>
+
+
+			
+
+			<p class="question">
+You were recently ranked 8th by SmashEurope's 2016 ranking. Where do you see yourself in Europe right now, is 8th a fair place?</p>
+
+<p class="answer">To be honest I consider myself a top 5 player in Europe, when I'm on point. It’s a big “when”and that's why I'm where I am now: I still lack serious consistency. I still have that clutch factor with aggressive reads that allows me to sometimes steal victory at the last moment, but against tougher opponents like Ice or Leffen, or in up match-ups I don't know that well such as Ice Climbers or fox, that just doesn't cut in the long run. Overall I’d just say that I deserve to be where I am in the rankings, and that I will focus on changing that; quite simple really. </p>
+
+
+<p class="question">
+What are your smash goals for the next year?</p>
+<p class="answer">
+On one hand I have the EU rankings to climb, the goal being to reach the top foxes and eventually topple them. This year in particular though I have to focus on consistency more than anything, to raise the floor and quit giving sets away every now and then. 
+My biggest goal this year overall though is going back to the US. Genesis was a personal disaster so I need to put it truly behind me, and I still need to really test myself in that environment, as it’s the heart of our competitive scene. </p>
+
+<p class="question">
+Do you think Jigglypuff is good enough to take you to the top? </p>
+<p class="answer">
+Hungrybox’s results answer that better than me. Puff is absolutely a top-tier character that has everything you need to win a tournament with. The question is whether I will be good enough to effectively learn Hungrybox’s approach to the character, as it's the safest way there is in the current metagame. I want to play to my character’s strengths, while bringing in all the cool stuff I found when I learned to play puff in the first place. </p>
+<p class="question">
+How would you describe yours style of Jigglypuff in comparison to Hungrybox’s?</p>
+<p class="answer">
+I just rely way more on reads and aggressive play overall, while he thrives on provoking mistakes by patiently moving around his opponent's space. This isn't to say Hbox can't play aggressive, it's just that he’s extra careful about picking his moment, while I aim to overwhelm my opponent by following their movement. My style creates crazy explosive moments throughout sets, but it also means that I tend to give my opponents a lot of free openings for no reason, which is the one flaw Hungrybox’s style is built around: he tries as hard as he can to give you nothing. That’s why he's a world class player and that he rarely loses to anyone outside the top 4. Though, I still think my way of puff can reach a much higher spectator value than Hbox’s, and that's why I want to reach his level. Getting there is a long way because it requires being able to recognize and adapt to every kind of fox there is most of all, and there a lot of nuances to this. Hbox has crafted over the years a really impressive amount of tactics to answer every type of player, to the point where the way he plays against the other “gods” is uniquely designed for each of them.</p>
+
+<p class="quote" id="q2">
+"I know people are gonna love the stuff I can show them"
+</p>
+
+
+<p class="question">
+What are you most excited about for the upcoming year of Smash?</p>
+
+
+
+<p class="answer">
+I'm excited that tournaments are getting bigger as well as the viewing audience. We’re witnessing the rise of smash as a true spectator sport, and seeing so many people that love watching tournaments promises the best for us. I look forward to meeting more of the community and starting interacting with it more. I want to start streaming regularly this year, and produce a bunch of entertaining content for everyone, because I know people are gonna love the stuff I can show them. I’ll also be able to share what I know with the puff players, which are on the rise, and to some extent help the overall community understand fighting puff better, so we can also improve in the process. </p>
+
+
+<p class="question">
+What kind of content can we expect from your stream?</p>
+
+<p class="answer">I have a lot of ideas but it'll basically be a bunch of streaming sessions with the other top French players. I'm very keen on having a friendly and active stream, doing stuff with the chat and so on; since I can't be at every big major I see it as my best way to keep in touch with the international community.</br><br>
+
+My stream will allow me to make combo videos as well as puff technology videos which I've been wanting to share.
+I'm also going to do a lot of Jigglypuff analysis, especially of Hungrybox since no one analyses his matches and I think it would help other puffs a lot, as well as the other top players that may have trouble understanding the way he plays.
+</p>
+
+<hr>
+
+<p class="intro" style="font-size: 20pt">Tekk's first stream will be on www.twitch.tv/______ at __pm CET 
+ </p>
+
+
+<div class="bottom">
+	<img id='tekk2' src="../img/tekk.png">
+
+	<ul>
+	<li>Follow Tekk on Twitter!</li>
+	<li><a href="http://www.twitter.com/TheFrenchToast">@TheFrenchToast</a></li>
+
+	<li>Team SDS on Twitter!</li>
+	<li><a href="http://www.twitter.com/smashdownsouth">@SmashDownSouth</a></li>
+	<li>Interview by Edd Cockshutt</li>
+	<li><a href="http://www.twitter.com/the_eddpire">@the_eddpire</a>
+
+	</ul>
+
+</div>
+
+
+
+		</div>
+
+		
+
+
+
+		</div>
+	<!-- 	<br>
+		<h3>Canada Branch</h3>
+		<hr>
+
+		<div class="translucent half bio">
+			<img src="./img/joel.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Joel Galley</em><br>
+			<em class="bioRole">Head of Operations, Canada</em><br>
+			Joel is the biggest home boy now moved over to canada to show them how we do it in good ol' blighty </p>
+		</div>
+		<div class="translucent half last bio">
+			<img src="./img/jesse.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Jesse Waterman</em><br>
+			<em class="bioRole">Regional Manager, BC, Canada</em><br>
+			A native we found</p>
+		</div> -->
+		
+
+	<!-- 	<span class="translucent half last" style="background: url(./img/me.png)">
+		Test
+		</span> -->
+<!-- <div class="footer"> -->
+<!-- <hr> -->
+<!-- <img src="img/SDSLogo.png" class="footer"></div> -->
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

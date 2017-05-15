@@ -1,0 +1,126 @@
+
+h3.top{
+	margin-top: 24px;
+}
+
+img.eventBanner{
+	top: 0px;
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+	opacity: 1.0;
+
+
+	/*vertical-align: top;*/
+}
+img.eventBanner:hover{
+	opacity: 0.8;
+}
+
+img.upcoming{
+	margin-bottom: 24px;
+}
+
+img.icon{
+
+	width:100px;
+	height: 100px;
+	float: left;
+}
+
+
+
+div.event{
+	margin-bottom: 24px;
+	background-color: #444;
+	color: white;
+	font-size: 16pt;
+	text-decoration: none;
+	overflow: hidden;
+	position: relative;
+	cursor: pointer;
+}
+
+div.event a{
+	color: white;
+	text-decoration: none;
+	display: inline-block;
+}
+
+
+div ul{
+	height: 75%;
+	list-style-type: none;
+	width: 250px;
+	display: table;
+	table-layout: fixed;
+	padding: 0px;
+	float: left;
+	margin: 0px;
+	margin-top: 3px;
+	/*margin: 0px;*/
+}
+li{
+	display: table-row;
+	list-style-type: none;
+}
+/*li:before {
+    content:'•';
+    float: left;
+    width: 20px;
+    font-size: 1.8em;
+    line-height: 0.75em;
+}*/
+
+
+ul li a{
+	display: block;
+}
+div ul.mini{
+	width: 180px;
+}
+
+div.eventDetails{
+	height: 150px;
+	padding-top: 325px;
+	background-color: #444;
+	margin: 0px;
+	display: block;
+}
+div.full{
+	width: 851px;
+}
+
+div.half{
+	width: 392px;
+	float: left;
+}
+div.third{
+	width:280px;
+	float: left;
+}
+
+h3{
+	font-family: 'titilliumbold';
+	font-size: 24px;
+	padding: 0px;
+	margin: 0px;
+}
+h4{
+	padding: 0px;
+	padding-left: 3px;
+	margin: 1px;
+	font-family: 'titilliumbold';
+}
+hr{
+	padding: 0px;
+	margin-bottom: 3px;
+	margin: 2px;
+	color: black;
+}
+li a:hover{
+
+	color: #999;
+
+}

@@ -1,0 +1,84 @@
+p{
+	padding-right: 24px;
+	padding-left: 24px;
+}
+
+
+p.question{
+	font-family: 'titilliumbold';
+	font-size: 18pt;
+}
+
+
+p.answer{
+	font-family: 'titilliumitalic';
+	font-size: 16pt;
+}
+p.regular{
+	font-size: 16pt;
+}
+p.quote{
+	font-size: 36pt;
+	font-style: normal;
+	font-family: 'titilliumlightitalic';
+	float: none;
+	text-align: center;
+	margin: 10px;
+}
+
+
+div.article{
+	background: url("../img/bioFiller.png");
+	margin-top: 24px;
+	margin-bottom: 24px;
+}
+
+h2.article-title{
+	font-size: 32pt;
+	/*padding-left: 24px;*/
+	display: inline-block;
+	margin-bottom: 12px;
+}
+
+h1, h2, h3, h4, h5, h6{
+	margin-left: 24px;
+}
+
+h4{
+	font-size: 28px;
+	/*margin-left: auto;*/
+	/*margin-right: auto;*/
+	/*text-align: center;*/
+}
+
+div.gfycat{
+	text-align: center;
+	width: 100%;
+	height: 360px;
+}
+
+iframe{
+	margin-left :auto;
+	margin-right: auto;
+}
+
+
+
+img#tekk{
+float: right;
+top: 0px;
+
+}
+img#tekk2{
+	float: left;
+	display: inline-block;
+	margin: 24px;
+}
+p#q2{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+p.written-by{
+	font-size: 14pt;
+}

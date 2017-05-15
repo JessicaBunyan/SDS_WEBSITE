@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Blog - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="../css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="../css/blog.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a class="active" href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+
+		<a href =".blog//interview-with-SDS-Tekk"<div class="article">
+			
+			<!-- <div class="left"> -->
+			<!-- <div class="top"> -->
+				<div class="left">
+					<h2 class="article-title">Interview With SDS | Tekk</h2>
+					
+
+					<p class="intro">
+						Victor "Tekk" Abdessemed is the newest player to join Team SDS. We spoke with him about his goals as a competitor, and how he plans to start interacting with his fans with his new livestream.
+
+					</p>
+
+					<p class="quote">
+						"I consider myself a top 5 player in Europe when I'm on point"
+					</p>
+
+				</div>
+
+			<!-- </div> -->
+				<div >
+					<img id="tekk" src="./img/blog/tekksmallest.png">
+				</div>
+			<!-- </div> -->
+
+
+			
+
+
+
+		</div>
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

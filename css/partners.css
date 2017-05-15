@@ -1,0 +1,46 @@
+.translucent{
+	background: url(../img/bioFiller.png);
+}
+
+div.partnerBox{
+	font-family: 'titilliumregular';
+	height: 350px;
+	width: 500px;
+	margin-bottom: 24px;
+	/*background: #999;*/
+	display: inline-block;
+	/*float: left;*/
+	margin-left: 0px;
+	margin-top: 24px;
+	vertical-align: top;
+}
+div.left{
+	margin-right: 20px;
+}
+
+img.partnerImg{
+	margin-left: 150px;
+	margin-right: 150px;
+	width: 200px;
+	height: 200px;
+	/*display: block;*/
+}
+
+div.top{
+	margin-top: 24px;
+}
+
+div.partnerBox p{
+	text-align: center;
+	height: 95px;
+}
+
+img.round{
+	border-radius: 5px;
+}
+
+h4.partner-name{
+
+	text-align: center;
+
+}

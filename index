@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8" >
+	<meta name="viewport" content='width=device-width, initial-scale=1.0'>
+	<title>Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/index.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+</div>
+
+</div>
+<ul id="navBar">
+
+
+<li ><a class="active"  href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="spacer">
+		</div>
+
+		<div class="landingBox" style="background-image: url(./img/landingNew12.png)">
+
+		<button onclick="location.href= 'https://smash.gg/TheFinalChapter'"  class="register-here">Register
+		</button>
+		<!-- <button onclick="location.href= 'https://www.youtube.com/watch?v=FyDPxNWOlwI&index=1&list=PLQ3JBK7Qwuf7KCdg7JmpXd_IZ5Oj0LWbd'"  class="watch-now">Watch Now
+		</button>
+ -->
+			<div class="twitterBox">				
+				<a class="twitter-timeline" href="https://twitter.com/SmashDownSouth" data-widget-id="645954133565042688" width="300" height="400" data-theme="dark">Tweets by @SmashDownSouth</a>
+				<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+
+		</div>
+		
+		<span class="third" >
+			<h3>Watch it Back</h3>
+			<hr>
+			<a href="https://www.youtube.com/channel/UC2X4KR8cRcJVwrvHlUtx81A"><img class="mini clickable" src="./img/youtube2.png"></a>
+			Check out our channel for all of our videos including X1's Vlogs and Match Analysis
+			
+		</span>
+		<span class="third" >
+			<h3>Get Involved</h3>
+			<hr>
+			<a href="./weeklies"><img class="mini clickable" src="./img/playingSmall.png"></a>
+			We run smash sessions every week in Southampton. 
+		</span>
+		<span class="third" id="last">
+			<h3>Watch Live</h3>
+			<hr>
+			<a href="http://www.twitch.tv/smashdownsouth"><img class="mini clickable" src="./img/twitch3.png"></a>
+			Our weekly events and tournaments are streamed live on our twitch channel.
+		</span>
+			
+
+		<span class="findOutMore">
+					<img class="mini left" src="./img/playing4.JPG">
+			<h3>Welcome to Team SDS</h3>
+			<hr>
+			<p class="intro"> 
+			We're a team of players, and tournament organisers based in Southampton, UK. We started as just two players and now have a whole dedicated team and run events all across the South of England.
+			</p>
+			<button onclick="location.href= './about'" class="learn-more">
+			Learn more</button>
+		</span>
+
+
+<!-- <div class="footer"> -->
+<!-- <hr> -->
+<!-- <img src="img/SDSLogo.png" class="footer"></div> -->
+		
+		<!-- </bodytext>	 -->
+	<!-- </div> -->
+</div>
+
+
+
+</body>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+</script>
+<!--
+ <script src="./js/index.js">
+// </script>
+->
+
+		 <!-- Hallstatt, Yellowstone, Yosemite->
+
+
+ </body></html>

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Partners - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/partners.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+
+</div>
+
+</div>
+<ul id="navBar">
+
+<li ><a  href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a class="active"  href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+	
+		<div class="partnerBox left">
+			<img src="./img/sussexSmash.png" class="partnerImg">
+			<h4 class="partner-name">Sussex Smash</h4>
+			<p>
+				Sussex Smash is a small tournament series in Shoreham by Sea started up by two brothers, Nathan & Sam McLewee. Sussex Smash now work with Team SDS to improve the quality and scale of their tournament series
+			</p>
+
+		</div>
+
+
+		<div class="partnerBox">
+		<a href="http://thirdagecentre.org.uk/"><img src="./img/3ac3.png" class="partnerImg"></a>
+		<h4 class="partner-name">Millennium Third Age Center</h4>
+		<p>
+				The Millennium Third Age Centre is a charity which has been providing resources and activities for the Southampton community since 2001. In recent years it has been host to the South Coast Regionals series of tournaments.
+			</p>
+			
+
+		</div>
+		<div class="partnerBox left">
+		<img src="./img/phoenixLogo.png" class=" round partnerImg">
+		<h4 class="partner-name">Phoenix Smash</h4>
+		<p>
+				Phoenix Smash is an upcoming smash organisation in the west midlands who run biweekly smash events in Coventry. Phoenix smash help with the live broadcasting of our events
+			</p>
+			
+
+		</div>
+
+				<div class="partnerBox">
+		<a href="http://www.twitter.com/smashhouseuk/"><img src="./img/SmashHouse2.jpg" class=" round partnerImg"></a>
+		<h4 class="partner-name">Smash House</h4>
+		<p>
+				Smash House is a new livestreaming organisation from the North East of England. Smash House help broadcast our events, and are official partners of Team SDS
+			</p>
+			
+
+		</div>
+
+		
+		<!-- </bodytext>	 -->
+	</div>
+</div>
+
+</body>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+		 <!-- Hallstatt, Yellowstone, Yosemite->
+
+
+ </body></html>

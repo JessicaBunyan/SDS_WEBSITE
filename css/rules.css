@@ -1,0 +1,70 @@
+ul {
+	margin-top: 0px;
+}
+
+article{
+	background: url(../img/bioFiller.png);
+	border: 1px solid black;
+
+}
+
+h2{
+
+	text-align: center;
+	/*margin: 0 auto;*/
+
+    font-family: 'titilliumbold';
+    /*text-decoration: underline;*/
+}
+
+article div.head{
+
+	height: 35px;
+	line-height: 35px;
+
+}
+div.head:hover{
+	cursor: pointer;
+}
+article div.head h3{
+	padding-left: 5px;
+}
+article div.body{
+
+
+}
+
+article.last{
+	margin-bottom: 50px;
+}
+
+
+ul.stageList{
+	list-style: inside;
+	padding: 0px;
+}
+
+ul.stageList li{
+
+	padding-left: 30px;
+}
+ul.stageList li.listTitle{
+
+	padding-left: 0px;
+	padding-top: 22px;
+	list-style-type: none;
+	text-decoration: underline;
+}
+
+
+p.top{
+	width: 750px;
+	text-align: center;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+div#short{
+	height: 800px;
+}

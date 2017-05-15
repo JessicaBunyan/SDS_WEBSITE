@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Events - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/events.css">
+
+
+
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+</div>
+
+
+</div>
+<ul id="navBar">
+
+<li ><a href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a class="active" href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+
+<!-- End Header -->
+
+
+<div class="centerer thin">
+	<div class="column thin">
+	<!-- All stuff goes inside this column div -->
+		
+		<h3 class="top">Upcoming Events</h3>
+		
+		<div class=" event" style="height:315px">
+		<a href="http://www.smash.gg/aos2">
+		<img class="past eventBanner" src="./img/EventBanners/AoS2.jpg">
+			</a>
+		</div>
+
+		<!-- <div class="event">
+		<a href="./SCR10">
+		<img class="past eventBanner" src="./img/EventBanners/SCR10.png">
+		</a>
+		</div> -->
+
+
+
+		<h3 class="top">Every Week</h3>
+		<a href="./weeklies">
+		<img class="upcoming hand" src="./img/weeklyShort.png"></a>
+
+		
+		
+		
+
+		
+		<!-- <h3 >Every Week</h3>
+		<a href="./weeklies.html">
+		<img class="upcoming" src="./img/weeklyShort.png"></a> -->
+
+		<h3> Past Events</h3>
+
+		<div class="past event">
+			<img class="past eventBanner" src="./img/EventBanners/SCR11.jpg">
+		<div class="half  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/Smashgg2.png">
+			<ul class="results">
+			<li></li>
+				<li><a href="https://smash.gg/tournament/south-coast-regionals-11/brackets">Full Results</a></li>
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PL0BHD5v7ngS-50W87aL9enMkrrJufqKcV">Full Playlist</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+		<div class="past event">
+			<img class="past eventBanner" src="./img/EventBanners/AoS1.jpg">
+		<div class="half  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/aosMeleePro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/aosMeleeAm">Amateur Bracket</a></li>
+			</ul>
+			</div>
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PL0BHD5v7ngS8FUioFDLpRoGcousF5vlSX">Full Playlist</a></li>
+			</ul>
+
+		
+		</div>
+		</div>
+
+
+		<div class="past event">
+			<img class="past eventBanner" src="./img/EventBanners/SCR10.png">
+		<div class="half  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR10Pro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/SCR10Amateur">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/SCR10Doubles">Doubles</a></li>
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PLQ3JBK7Qwuf4PJBnAbaYrd_j4L4CR_R0V">Full Playlist</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+		<div class="past event">
+		
+		<img class="past eventBanner" src="./img/EventBanners/SCR9CS.png">
+		<div class=" eventDetails">
+		<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR9Pro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/SCR9Am">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/SCR9Doubles">Doubles Bracket</a></li>
+				
+			</ul>
+		</div>	
+		</div>
+
+
+
+		<div class="past event">
+		
+		<img class="past eventBanner" src="./img/EventBanners/PS2.png">
+		<div class="third  eventDetails">
+			<h4>Melee Brackets</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results mini">
+			<li></li>
+				<li><a href="http://challonge.com/PS2MPro">Professional</a></li>
+				<li><a href="http://challonge.com/PS2MAmateur">Amateur</a></li>
+			</ul>
+		</div>	
+		<div class="third eventDetails">
+		<h4>Project M Brackets</h4>
+			<hr>
+		<img class="icon" src="./img/challonge.png">
+			<ul class="results mini">
+				<!-- <li></li> -->
+				<li><a href="http://challonge.com/PS2PMSingles">Professional</a></li>
+				<li><a href="http://challonge.com/PS2PMam">Amateur</a></li>
+				<li><a href="http://challonge.com/PS2PMDoubles">Doubles</a></li>
+
+			</ul>
+
+		</div>
+		<div class="third eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos mini">
+				<li></li>
+				<li>Coming Soon!</li>
+				<!-- <li><a href="https://www.youtube.com/watch?v=W5MPqfEu8CU&list=PLQ3JBK7Qwuf7W9I_bqD1G3x-e9vxeo5pr">Melee</a></li>
+				<li><a href="https://www.youtube.com/playlist?list=PLQ3JBK7Qwuf5KdIEhNo44-6zMpSp2tM8A">Project M</a></li> -->
+				<li></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+
+
+		<div class="past event">
+		
+		<img class="past eventBanner" src="./img/EventBanners/SCR8.png">
+		<div class=" eventDetails">
+		<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR8Pro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/SCR8Am">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/SCR8Doubles">Doubles Bracket</a></li>
+				
+			</ul>
+		</div>	
+		<!-- <div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PLQ3JBK7Qwuf5D0eQ3ui9AcGeMVnhppm5X">Full Playlist</a></li>
+			</ul>
+
+		</div> -->
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<div class="past event">
+		
+		<img class="past eventBanner" src="./img/EventBanners/ProjectSouthampton.png">
+		<div class="half eventDetails">
+		<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/ProjectSotonPro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/ProjectSotonAm">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/ProjectSotonDoubles">Doubles Bracket</a></li>
+				
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PLQ3JBK7Qwuf5D0eQ3ui9AcGeMVnhppm5X">Full Playlist</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR7.png">
+		<div class="half  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR7Pro">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/SCR7Intermediate">Intermediate Bracket</a></li>
+				<li><a href="http://challonge.com/SCR7Amateur">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/SCR7Doubles">Doubles</a></li>
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="Full Playlist">Top 8</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR6.png">
+		<div class="full eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR6">Professional Bracket</a></li>
+				<li><a href="http://challonge.com/SCR6Amateur">Amateur Bracket</a></li>
+				<li><a href="http://challonge.com/SCR6Doubles">Doubles Bracket</a></li>
+			</ul>
+		</div>	
+		</div>
+
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR5.jpg">
+		<div class="third  eventDetails">
+			<h4>Melee Brackets</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results mini">
+				<li><a href="http://challonge.com/SCR5M">Professional</a></li>
+				<li><a href="http://challonge.com/SCR5MAmateur">Amateur</a></li>
+				<li><a href="http://challonge.com/SCR5M2">Doubles</a></li>
+			</ul>
+		</div>	
+		<div class="third eventDetails">
+		<h4>Project M Brackets</h4>
+			<hr>
+		<img class="icon" src="./img/challonge.png">
+			<ul class="results mini">
+				<li></li>
+				<li><a href="http://challonge.com/SCR5PM">Singles</a></li>
+				<li><a href="http://challonge.com/SCR5PM2">Doubles</a></li>
+
+			</ul>
+
+		</div>
+		<div class="third eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos mini">
+				<li></li>
+				<li><a href="https://www.youtube.com/watch?v=W5MPqfEu8CU&list=PLQ3JBK7Qwuf7W9I_bqD1G3x-e9vxeo5pr">Melee</a></li>
+				<li><a href="https://www.youtube.com/playlist?list=PLQ3JBK7Qwuf5KdIEhNo44-6zMpSp2tM8A">Project M</a></li>
+				<li></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR4.jpg">
+		<div class="full  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR4Melee">Melee Singles</a></li>
+				<li><a href="http://challonge.com/SCR4Amateur">Melee Amateur</a></li>
+				<li><a href="http://challonge.com/SCR4Smash4">Smash 4 Singles</a></li>
+			</ul>
+		</div>	
+		</div>
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR3.jpg">
+		<div class="full eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR3F">Melee Singles</a></li>
+				<li><a href="http://challonge.com/SCR3PM">Project M Singles</a></li>
+				<li><a href="http://challonge.com/SCR3Smash4">Smash 4 Singles</a></li>
+				
+			</ul>
+		</div>	
+		</div>
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SCR2.jpg">
+		<div class="half  eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SCR2M">Melee Singles</a></li>
+				<li><a href="http://challonge.com/SCR2Dubs">Melee Doubles</a></li>
+				<li><a href="http://challonge.com/SCR2PM">Project M Singles</a></li>
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/twitchLogo3.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="http://www.twitch.tv/selfdestructtv/c/5688224">  Full Archive</a></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+		<div class="past event">
+		<img class="past eventBanner" src="./img/EventBanners/SDS5.jpg">
+		<div class="half eventDetails">
+			<h4>Brackets & Results</h4>
+			<hr>
+			<img class="icon" src="./img/challonge.png">
+			<ul class="results">
+				<li><a href="http://challonge.com/SDS5MS">Melee Singles</a></li>
+				<li><a href="http://challonge.com/SDS5MD">Melee Doubles</a></li>
+				<li><a href="http://challonge.com/SDS5PMS">Project M Singles</a></li>
+				<li><a href="http://challonge.com/SDS5PMD">Project M Doubles </a></li>
+			</ul>
+		</div>	
+		<div class="half eventDetails">
+		<h4>Videos</h4>
+			<hr>
+		<img class="icon" src="./img/youtube-128.png">
+			<ul class="videos">
+			<li></li>
+				<li><a href="https://www.youtube.com/playlist?list=PL2odLL1MNakmePXD6Es448RinpR-THu_Q">Melee</a></li>
+				<li><a href="https://www.youtube.com/playlist?list=PL2odLL1MNaklsyuhWDhUOJMMHBaognq31">Project M</a></li>
+				<li></li>
+			</ul>
+
+		</div>
+		</div>
+
+
+	</div>
+</div>
+
+<!-- <div class="footer"> -->
+<!-- <hr> -->
+<!-- <img src="img/SDSLogo.png" class="footer"></div> -->
+</body>
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+<script src="./js/events.js"> </script>
+</html>

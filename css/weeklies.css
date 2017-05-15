@@ -1,0 +1,71 @@
+img.top{
+	margin-top: 24px;
+}
+
+
+
+h3{
+/*
+	float: left;*/
+}
+
+
+div.thin{
+	width: 851px;
+	margin-left: auto;
+	margin-right: auto;
+}
+img.icon{
+	width: 100px;
+	float: left;
+}
+
+img.inline{
+	width: 425px;
+	height: 319px;
+	margin-top: 10px;
+	/*height: 400px;*/
+	float: left;
+}
+
+div.half{
+	width: 425px;
+	height: 380px;
+	float: left;
+}
+
+div.socialMedia{
+	width: 350px;
+	height: 200px;
+	margin: 0 auto;
+
+	/*float: left;*/
+}
+div.minibox{
+	/*float:  left;*/
+	/*float: left;*/
+	width: 100px;
+	float: right;
+	/*text-align: center;*/
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	/*margin: 0px;*/
+	/*margin: 10px;*/
+}
+img.icon.fb{
+	width: 75px;
+	display: block;
+	/*margin: 0 auto;*/
+	margin-left: 12px;
+	margin-right: 13px;
+}
+
+div.minibox.left{
+	margin-right: 100px;
+	float: left;
+}
+
+p#join{
+	font-size: 1.2em;
+}

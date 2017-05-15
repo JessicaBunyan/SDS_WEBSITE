@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Project Southampton 2 - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/event.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+</div>
+
+
+</div>
+
+<ul id="navBar">
+
+<li ><a href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="spacer">
+		</div>
+
+		<div>
+		<img src="./img/PS2Details.png">
+		</div>
+		
+		<div class="button side" id="location">
+			<img src="./img/pinIcon.png"><br>
+			Location
+		</div>
+
+
+		<div class="button" id="schedule">
+			<img src="./img/clipboard.svg"><br>
+			Schedule
+		</div>
+		<div class="button" id="format">
+			<img src="./img/bracketIcon.png"><br>
+			Format
+		</div>
+		<div class="button" id="gettingHere">
+			<img id="bus" src="./img/bus.png"><br>
+			Transport
+		</div>
+		<div class="button" id="fees">
+			<img src="./img/pound.png"><br>
+			Fees
+		</div>
+		<div class="details location" id="locationDetails">
+		<h3 class="noJS">Location</h3>
+		<p><br>
+		University of Southampton,<br>
+		University Road,<br>
+		Southampton, UK</p>
+		<div class="mapsIcon"><a href="https://goo.gl/maps/ZWKxbXy4oFp"><img class="mapsIcon" src="./img/googleMaps.png"></a></div>
+		<!-- <div class="left">
+		<iframe width="400" height="300" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJjx6jvqx2dEgRl2eX-HXZrVs&key=AIzaSyA8oSntuqtskTHn07oMu2cKSwvIRdt0KB8" allowfullscreen></iframe></div>
+		 -->
+		 </div>
+
+		 <div class="details schedule" id="scheduleDetails">
+		 <h3 class="noJS">Schedule</h3>
+		 <p><br>
+			Venue opens: 10:00<br>
+			First event: 12:00<br>
+			Tournament finishes: 22:00<br>
+			Full schedule TBA
+</p>
+		 </div>
+		 <div class="details format" id="formatDetails">
+		 <h3 class="noJS">Format</h3>
+		 <div class="half">
+		 <h4 class="lower">PM Singles</h4>
+		 <p>
+
+		 Round Robin Pools<br>
+		 Professional Bracket<br>
+		 Amateur Bracket<br>
+		 
+
+		 </p>
+		 </div>
+		 <div class="half">
+		 <h4 class="lower">PM Doubles & Melee</h4><p>
+		 Double Elimination Bracket<br>
+		 
+		 </p>
+		 </div>
+		 </div>
+
+		 <div class="details gettingHere" id="gettingHereDetails">
+		 <h3 class="noJS">Transport</h3>
+		 <p><br> The venue has great links via coach or train
+		 <!-- <p>Nearest Station is Southampton Central</p> -->
+		<div class="half">
+		 <!-- <h4>From London</h4> -->
+		 <a href="http://www.nationalexpress.com">
+		 <img class="transportIcon" src="./img/bus-icon.png"></a>
+		<p>Southampton University Coach Stop</p>
+		 <!-- <p>
+		 Look into cheap coaches here<br>
+		www.nationalexpress.com<br>
+		 
+
+		 </p> -->
+		 </div>
+		 <div class="half">
+		 <a href="http://www.nationalrail.com">
+		 <img class="transportIcon" src="./img/train-icon.png">
+		 </a>
+		 <p>Southampton Central</p>
+		 <!-- <h4>From Elsewhere</h4><p>
+		 Double Elimination Bracket
+		 </p> -->
+		 </div>
+		 <!-- </div> -->
+
+		 </div>
+		 <div class="details fees" id="feesDetails">
+		 <h3 class="noJS">Fees</h3>
+		 <p id ="feesDetails">
+		 <br>
+		 Venue Fee: £3<br>
+		 PM Singles: £5<br>
+		 PM Doubles: £2.50 per player<br>
+		 Melee Singles: £5<br>
+		 <br>
+		There is a 40 player cap for this tournament.<br>
+		You must complete the form below, AND pre-pay to confirm your spot.<br>
+		Paypal details are on the last page of the registration form.
+		 
+		 </p>
+
+		 </div>
+
+
+		
+
+		<button class="register">Register</button>
+
+		<div class="divForm">
+		<div id="xContainer">
+		<img class="x" src="./img/close.png">
+		</div>
+		<form id="SCR8Form" action="confirm.php">
+		<label>What is your name?<br>
+		<input type="text" required placeholder="John Smith"></label>
+		<label>What is your Smash Tag?<br>
+		<input type="text" required placeholder="FalcoMaster4003"></label>
+		<label class="checkboxQ">Which events are you entering?<input hidden></input></label>
+			<label class="checkbox listItem"><input type="checkbox" name="events">Project M Singles</input></label>
+			<label class="checkbox"><input type="checkbox" id="doublesCheckbox" name="events">Project M Doubles</input><br></label>
+
+		
+		<label id="teamPartner">Who are you teaming with?<br>
+		<input type="text" required placeholder="Jane Smith"></label>
+		<label>How many CRTs can you bring?<br>
+		<select>
+			<option disabled hidden selected> -- Select an option -- </option>
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select></label>
+
+		<label>How many Melee setups can you bring?<br>
+		<select>
+			<option disabled hidden selected> -- Select an option -- </option>
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select></label>
+		<button class="submit" type="submit">Submit</button>
+
+		</form>
+		</div>
+
+		<h3 id="participantList"> Participant List</h3>
+		<p class="manualUpdate">This list is updated manually, so it may take 1-2 days for your name to appear. If you have any queries, get in contact with us on Twitter or Facebook.</p>
+		<hr>
+
+		<div class="table">
+
+		<!-- <div class="filter">Confirmed</div> -->
+		<table class="players">
+			<thead>
+			<tr>
+				<th>Player</th>
+				<th>Region</th>
+				<th>Events</th>
+				<th>Partner</th>
+				<th>Confirmed</th>
+			</tr>
+			</thead>
+			<tbody>
+			<tr class="light">
+				<td>SDS | X1</td>
+				<td>Southampton</td>
+				<td>All</td>
+				<td>?</td>
+				<td>Yes</td>
+			</tr>
+			<tr class="dark">
+				<td>SDS | R23</td>
+				<td>Southampton</td>
+				<td>All</td>
+				<td>?</td>
+				<td>Yes</td>
+			</tr>
+			<tr class="light">
+				<td>MinuteLicence</td>
+				<td>Sussex</td>
+				<td>PM Singles</td>
+				<td>n/a</td>
+				<td>No</td>
+			</tr>
+			<tr class="dark">
+				<td>Stan Sasquatch</td>
+				<td>Reading</td>
+				<td>All</td>
+				<td>?</td>
+				<td>Yes</td>
+			</tr>
+			
+			
+			</tbody>
+			</table>	
+		</div>
+
+		</div>
+		</div>
+
+
+
+		</body>
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+<script src="./js/PS2.js"> </script>
+
+		</html>

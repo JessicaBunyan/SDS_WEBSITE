@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>About - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/about.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+<li ><a href="./index">Home</a></li>
+<li><a class="active" href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="test">
+
+		<div class="translucent full bio top">
+		<img class ="SDSLogo" src="./img/SDSBioSize.png" style="float: left;">
+		<p id="team"><em id="teamHeader" class="bioHeader">About The Team</em><a href="http://www.twitter.com/SmashDownSouth"><img class="twitter" src="./img/twitter3.png"></a><br>
+			Team SDS is a collection of players and Tournament Organisers based in Southampton, UK. We started off as two players running small tournaments and have since grown into a huge team of dedicated players and organisers, who are passionate about improving the standard of tournaments in the UK. Our aim is to grow the Smash community and provide bigger and better tournaments, without sacrificing the relaxed and social atmosphere. With more than twenty successful events under our belts we now plan to expand and host events in more areas along the south coast and beyond.</p>
+
+
+		</div>
+
+		<div class="translucent half bio">
+			<img src="./img/me.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Tristan Bunyan</em><a href="http://www.twitter.com/SDS_X1"><img class="twitter" src="./img/twitter3.png"></a><br>
+			<em class="bioRole">Owner, Events Manager & Commentator</em><br>
+			Relentless Tournament Organiser with over 5 years experience in the Smash community. Tristan was the driving force behind the rapid growth of the now formidable Southampton Smash scene. He also built Team SDS from the ground up. 
+			</p>
+		</div>
+
+		<div class="translucent half last bio">
+			<img src="./img/watson.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Alex Watson</em><a href="http://www.twitter.com/23Random23"><img class="twitter" src="./img/twitter3.png"></a><br>
+			<em class="bioRole">Chief Tournament Organiser</em><br>
+			Alex is a homegrown Southampton Smash player, joining the community in late 2013, and running tournaments soon after. Alex is the main organiser for the South Coast Regionals series, and is always looking to make our events bigger and better. 
+
+			</p>	
+		</div>
+
+		<div class="translucent half bio">
+		<img src="./img/seb.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Seb Archer</em><br>
+			<em class="bioRole">Tournament Organiser</em><br>
+			 Seb started off as a project M player, but while he has picked up Melee as his main game, he is still a Project M fan. Seb is keen to keep the Project M scene alive, so he created the Project Southampton series which he runs with the help of Tristan. 
+			</p>
+			
+		</div>
+
+		<div class="translucent half last bio">
+				<img src="./img/sam.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Sam Tweed</em><a href="http://www.twitter.com/meamking"><img class="twitter" src="./img/twitter3.png"></a><br>
+			<em class="bioRole">Tournament Assistant</em><br>Despite living outside of the city until recently, Sam has been involved with the Smash scene in Southampton since its rebirth in 2013. Sam has been travelling to Smash events across the country and has become known as something of a legend within the smash community. 	
+
+			</p>
+		</div>
+
+		<div class="translucent half bio">
+			<img src="./img/josef.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Josef Nickerson</em><br>
+			<em class="bioRole">Stream & Video Manager, Graphic Designer</em><br>
+			Josef discovered the world of competitive Melee when studying hard at university. Since joining the local community, he has helped provide a live stream for our weekly sessions, as well as helping with graphic design & video editing work
+			</p>	
+		</div>
+
+		<div class="translucent half last bio">
+			<img src="./img/doug.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Douglas Morgan</em><br>
+			<em class="bioRole">Bracket Manager</em><br>
+			Douglas is the newest member of Team SDS. At his first tournament Doug jumped in to help out with running the brackets. Since then, Doug has joined Team SDS, and has become an invaluable resource on tournament days. 	
+			<!-- The newest member of Team SDS. At his first tournament Doug jumped in to help out with running the brackets &amp; and was always looking to help out. Since then Doug has joined the SDS team and is one of our best on the day tournament assistants  -->
+			</p>
+		</div>
+
+<div class="translucent half bio">
+			<img src="./img/laurence.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Laurence Weaver</em><a href="http://www.twitter.com/Laurster_1337"><img class="twitter" src="./img/twitter3.png"></a><br>
+			<em class="bioRole">Videographer</em><br>
+			Filmmaker with a passion for esports, Laurence was ranked among the best in the continent at Starcraft 2 before he started playing Smash competitively. Laurence is now filming a series of videos showcasing the Southampton Smash community
+ 			</p>	
+		</div>
+
+		<div class="translucent half last bio">
+			<img src="./img/edd.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Edd Cockshutt</em><a href="http://www.twitter.com/The_Eddpire"><img class="twitter" src="./img/twitter3.png"></a><br>
+			<em class="bioRole">Editor, Commentator</em><br>
+			Edd was one of the many Southampton smashers who joined the scene in 2013. Since then Edd's soothing voice and bottomless vocabulary have established him as one of the UK's finest commentators. When he's not on the mic Edd writes for the Team SDS blog.
+			
+			<!-- The newest member of Team SDS. At his first tournament Doug jumped in to help out with running the brackets &amp; and was always looking to help out. Since then Doug has joined the SDS team and is one of our best on the day tournament assistants  -->
+			</p>
+		</div>
+<div class="translucent half bio">
+			<img src="./img/duke.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Duke Fay</em><br>
+			<em class="bioRole">Graphic Designer</em><br>
+			Filmmaker with a passion for esports, Laurence was ranked among the best in the continent at Starcraft 2 before he started playing Smash competitively. Laurence is now filming a series of videos showcasing the Southampton Smash community
+ 			</p>	
+		</div>
+
+
+
+
+		</div>
+	<!-- 	<br>
+		<h3>Canada Branch</h3>
+		<hr>
+
+		<div class="translucent half bio">
+			<img src="./img/joel.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Joel Galley</em><br>
+			<em class="bioRole">Head of Operations, Canada</em><br>
+			Joel is the biggest home boy now moved over to canada to show them how we do it in good ol' blighty </p>
+		</div>
+		<div class="translucent half last bio">
+			<img src="./img/jesse.png" class="bioImage">
+			<p>
+			<em class="bioHeader">Jesse Waterman</em><br>
+			<em class="bioRole">Regional Manager, BC, Canada</em><br>
+			A native we found</p>
+		</div> -->
+		
+
+	<!-- 	<span class="translucent half last" style="background: url(./img/me.png)">
+		Test
+		</span> -->
+<!-- <div class="footer"> -->
+<!-- <hr> -->
+<!-- <img src="img/SDSLogo.png" class="footer"></div> -->
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

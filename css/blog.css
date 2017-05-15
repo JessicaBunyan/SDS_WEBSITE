@@ -1,0 +1,75 @@
+
+
+h2.article-title{
+	padding-left: 12px;
+}
+
+p.read-more{
+	padding-left: 24px;
+	font-size: 24px;
+	font-family: 'titilliumitalic'
+	
+}
+
+p.quote{
+	font-size: 28pt;
+	font-style: normal;
+	font-family: 'titilliumlightitalic';
+	float: none;
+	text-align: center;
+	margin: 10px;
+}
+p#quote-scr11{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p#quote-tekk{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+p#quote-ship{
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p.intro{
+	font-size: 16pt;
+	padding-left: 24px;
+}
+
+
+div.article{
+	background: url("../img/bioFiller.png");
+	margin-top: 24px;
+	margin-bottom: 24px;
+	height: auto;
+	overflow: auto;
+}
+
+
+
+
+
+img.player-image{
+float: right;
+top: 0px;
+width: 263px;
+height: 357px;
+
+}
+
+div.left{
+	width: 720px;
+	float: left;
+	display: inline;
+}
+
+a:link{
+	color: inherit;
+}
+a:visited{
+	color: black;
+}

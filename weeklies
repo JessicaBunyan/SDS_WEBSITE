@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Southampton Smash Weeklies - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/weeklies.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+
+</div>
+
+
+</div>
+
+<ul id="navBar">
+
+<li ><a href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer thin">
+	<div class="column thin">
+	<!-- All stuff goes inside this column div -->
+
+		<img class="top" src="./img/weeklyTall.png">
+
+		
+		<div class="half">
+		<img class="inline" src="./img/weeklies.jpg">
+		</div>
+		<div class="half">
+		<img class="inline" src="./img/weekly6.jpg">
+		</div>
+		<h3>Join in the fun!</h3>
+
+<p id="join">
+		Our weekly events are open to anyone and we're always happy to see new players. Get in touch with us for more info!</p>
+		<div class="socialMedia">
+			<div class="minibox left">
+			<h4>Tweet us</h4>
+				<a href="http://www.twitter.com/smashdownsouth"><img class="icon " src="./img/twitter3.png"></a>
+			</div>
+			<div class="minibox">
+			<h4> Join our group</h4>
+				<a href="https://www.facebook.com/groups/614361821964340/"><img class="icon fb" src="./img/facebook.png"></a>
+			</div>
+		</div>
+		</body>
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+<script src="./js/SCR8.js"> </script>
+
+		</html>

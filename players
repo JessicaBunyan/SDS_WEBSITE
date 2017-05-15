@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Players - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="./css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="./css/players.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="./index" ><img src="img/SDSLogo.png" class="logo"></a>
+
+</div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="./index">Home</a></li>
+<li><a href="./about">About</a></li>
+<li><a href="./events">Events</a></li>
+<li><a href="./blog">Blog</a></li>
+<li><a class="active" href="./players">Players</a></li>
+<li><a href="./rules">Rules</a></li>
+<li id="last"><a href="./partners">Partners</a></li>
+</ul>
+
+<div class="centerer thin">
+	<div class="column thin">
+	<!-- All stuff goes inside this column div -->
+
+	<h3 class="header">Our Players</h3>
+	<p>Our team of players is one the strongest in the UK. We are proud of every player we sponsor and provide support and training to help them grow as players and individuals. Our current team consists of Victor "Tekk" Abd, Alex "R23" Watson, Adam "Modest Major" Burrington and Tristan "X1" Bunyan
+
+	</p>
+
+
+	<div class="main">
+
+		<ul class="players">
+			<li>
+			<div class="playerProfile">
+				<a><img class="bioImage" src="./img/tekk.png"></a>
+				<div class="playerDetails">
+					<div class="top">
+					<h3 class="playerName">Tekk</h3>
+					<!-- <div class="socialMedia"> -->
+						<a href="http://www.twitter.com/TheFrenchToast"><img class="twitter" src="./img/twitter3.png"></a>
+					</div>
+					<div class="playerBio">
+						<p>
+						The newest addition to Team SDS' roster, This French Jigglypuff, or Rondoudou has been a common sight in the top 8 of tournaments across Europe for the best part of a decade. With results like these, there are no questions why Tekk is considered the best Jigglypuff in Europe, and a fierce contender for second best in the world</p>
+					</div>
+
+
+
+				</div>
+				<div class="results">
+				<h3 class="achievements">Recent Achievements</h3>
+					<table class="results" id="tekkresults">
+					<!-- <thead><tr>
+						<th class="title"  colspan="2"><h3>Recent Achievements</h3></th></tr>
+					</thead> -->
+						<tr>
+						<td>Heir II The Throne</td>
+						<td>3rd of 369</td>
+						</tr>
+						<tr>
+						<td>HFLAN Melee Edition</td>
+						<td>4th of 172</td>
+						</tr>
+						<tr>
+						<td>Dreamhack Winter</td>
+						<td>17th of 354</td>
+						</tr>
+						<tr>
+						<td>Dreamhack London</td>
+						<td>4th of 97</td>
+						</tr>
+						<tr>
+						<td>G.R.A.S #5</td>
+						<td>1st of 52</td>
+						</tr>
+						<tr>
+						<td>Avalon M</td>
+						<td>3rd of 128</td>
+						</tr>
+						
+					</table>
+					<!-- <a href="http://smashranking.eu/smashers/r23/" class="button results"><div class="profilebtn">Profile</div></a> -->
+					<button onclick="location.href= 'http://smashranking.eu/smashers/tekk/';" class="profile">Profile</button>
+					</div>
+
+
+				<table class="details">
+				<tr class="headers">
+					<th>Full name:</th>
+					<th>Age:</th>
+					<th>Character:</th>
+					<th>Currently Resides:</th>
+					<!-- <td rowspan="2"><a href="http://smashranking.eu/smashers/r23/" class="button results"><div>Profile</div></a></td> -->
+				</tr>
+				<tr>
+					<td>Victor Abd</td>
+					<td>21</td>
+					<td>Jigglypuff</td>
+					<td>Lyon, France</td>
+				</tr>
+				</table>
+
+
+
+			</div>
+		</li>
+
+
+		<li>
+			<div class="playerProfile">
+				<a><img class="bioImage" src="./img/watson5.png"></a>
+				<div class="playerDetails">
+					<div class="top">
+					<h3 class="playerName">R23</h3>
+					<!-- <div class="socialMedia"> -->
+						<a href="http://www.twitter.com/23random23"><img class="twitter" src="./img/twitter3.png"></a>
+					</div>
+					<div class="playerBio">
+						<p>Joining the competitive Melee scene in 2013, Alex "R23" Watson is one of Smash's biggest success stories, rising to become the UK's 4th best player in under two years. Alex attributes his meteoric rise to success to consistent practice and willingness to travel, as well as an unfaltering dedication to improving at the game. 	</p>
+					</div>
+
+
+
+				</div>
+				<div class="results">
+				<h3 class="achievements">Recent Achievements</h3>
+					<table class="results" id="r23results">
+					<!-- <thead><tr>
+						<th class="title"  colspan="2"><h3>Recent Achievements</h3></th></tr>
+					</thead> -->
+						<tr>
+						<td>Heir II The Throne</td>
+						<td>13th of 369</td>
+						</tr>
+						<tr>
+						<td>HFLAN Melee Edition</td>
+						<td>17th of 172</td>
+						</tr>
+						<tr>
+						<td>South Coast Regionals 7</td>
+						<td>2nd of 52</td>
+						</tr>
+						<tr>
+						<td>Dreamhack London</td>
+						<td>17th of 97</td>
+						</tr>
+						<tr>
+						<td>Kickstart 2</td>
+						<td>5th of 65</td>
+						</tr>
+						<tr>
+						<td>Stourport Smash 3</td>
+						<td>1st of 23</td>
+						</tr>
+						<tr>
+						<td>Sussex Smash 1</td>
+						<td>1st of 21</td>
+						</tr>
+						
+					</table>
+					<!-- <a href="http://smashranking.eu/smashers/r23/" class="button results"><div class="profilebtn">Profile</div></a> -->
+					<button onclick="location.href= 'http://smashranking.eu/smashers/r23/';" class="profile">Profile</button>
+					</div>
+
+
+				<table class="details">
+				<tr class="headers">
+					<th>Full name:</th>
+					<th>Age:</th>
+					<th>Character:</th>
+					<th>Currently Resides:</th>
+					<!-- <td rowspan="2"><a href="http://smashranking.eu/smashers/r23/" class="button results"><div>Profile</div></a></td> -->
+				</tr>
+				<tr>
+					<td>Alex Watson</td>
+					<td>20</td>
+					<td>Sheik</td>
+					<td>Southampton, UK</td>
+				</tr>
+				</table>
+
+
+
+			</div>
+		</li>
+		<li>
+			<div class="playerProfile">
+				<a><img class="bioImage" src="./img/adam3.png"></a>
+				<div class="playerDetails">
+					<div class="top">
+					<h3 class="playerName">Modest Major</h3>
+					<!-- <div class="socialMedia"> -->
+					<a href="http://www.twitter.com/ModestMajor">
+						<img class="twitter" src="./img/twitter3.png"></a>
+					</div>
+					<div class="playerBio">
+						<p>With humble beginnings  honing his skills playing Melee online, Adam has been making waves ever since his first tournament. His patient and controlling style has led to him become one of the UK's most threatening Falco players, gaining him strong and consistent placings
+						</p>
+					</div>
+
+
+				</div>
+				<div class="results">
+				<h3 class="achievements">Recent Achievements</h3>
+					<table class="results" id="mmresults">
+					<!-- <thead><tr>
+						<th class="title"  colspan="2"><h3>Recent Achievements</h3></th></tr>
+					</thead> -->
+<!-- 						<tr>
+						<td><em>Tournament</em></td>
+						<td><em>Entrants</em></td>
+						<td><em>Placing</em></td>
+						</tr> -->
+						<tr>
+						<td>Sussex Smash 2</td>
+						<td>4th of 24</td>
+						</tr>
+						<tr>
+						<td>Final Destination 12</td>
+						<td>2nd of 32</td>
+						</tr>
+						<tr>
+						<td>Dreamhack London</td>
+						<td>33rd of 97</td>
+						</tr>
+						<tr>
+						<td>Stourport Smash 3</td>
+						<td>4th of 23</td>
+						</tr>
+						<tr>
+						<td>Sussex Smash 1</td>
+						<td>4th of 21</td>
+						</tr>
+						
+					</table>
+					<!-- <a href="http://smashranking.eu/smashers/modestmajor/" class="button results"><div class="profilebtn">Profile</div></a> -->
+					<button onclick="location.href= 'http://smashranking.eu/smashers/modestmajor/';" class="profile">Profile</button>
+					</div>
+				<table class="details">
+				<tr class="headers">
+					<th>Full name:</th>
+					<th>Age:</th>
+					<th>Character</th>
+					<th>Currently Resides:</th>
+					<!-- <td rowspan="2"><a href="http://smashranking.eu/smashers/modestmajor/" class="button results">Profile</a></td> -->
+				</tr>
+				<tr>
+					<td>Adam Burrington</td>
+					<td>23</td>
+					<td>Falco</td>
+					<td>Reading, UK</td>
+				</tr>
+				</table>
+			
+
+
+			</div>
+		</li>
+
+		<li>
+			<div class="playerProfile">
+				<a><img class="bioImage" src="./img/tristan3.png"></a>
+				<div class="playerDetails">
+					<div class="top">
+					<h3 class="playerName">X1</h3>
+					<!-- <div class="socialMedia"> -->
+					<a href="http://www.twitter.com/SDS_X1">
+						<img class="twitter" src="./img/twitter3.png"></a>
+					</div>
+					<div class="playerBio">
+						<p>Previously known for his threatening top 10 Falco, X1 has been a big name in the UK Smash scene for many years. In early 2015 Tristan switched character to Captain Falcon, and after a few months in the lab has regained his status as a nationwide threat.
+						</p>
+					</div>
+
+
+				</div>
+				<div class="results">
+				<h3 class="achievements">Recent Achievements</h3>
+					<table class="results" id="mmresults">
+					<!-- <thead><tr>
+						<th class="title"  colspan="2"><h3>Recent Achievements</h3></th></tr>
+					</thead> -->
+						<tr>
+						<td>Heir II the Throne</td>
+						<td>25th of 369</td>
+						</tr>
+						<tr>
+						<td>Dreamhack London</td> 
+						<td>33rd of 97</td>
+						</tr>
+						<tr>
+						<td>South Coast Regionals 7</td>
+						<td>7th of 52</td>
+						</tr>
+						<tr>
+						<td>Kickstart</td>
+						<td>9th of 100</td>
+						</tr>
+						<tr>
+						<td>B.E.A.S.T V</td>
+						<td>49th of 375</td>
+						</tr>
+						
+					</table>
+					<!-- <a href="http://smashranking.eu/smashers/x1/" class="button results"><div class="profilebtn">Profile</div></a> -->
+					<button onclick="location.href= 'http://smashranking.eu/smashers/x1/';" class="profile">Profile</button>
+				</div>
+				<table class="details">
+				<tr class="headers">
+					<th>Full name:</th>
+					<th>Age:</th>
+					<th>Character</th>
+					<th>Currently Resides:</th>
+					<!-- <td rowspan="2"><a href="http://smashranking.eu/smashers/modestmajor/" class="button results">Profile</a></td> -->
+				</tr>
+				<tr>
+					<td>Tristan Bunyan</td>
+					<td>22</td>
+					<td>Captain Falcon</td>
+					<td>Southampton, UK</td>
+				</tr>
+				</table>
+			
+
+
+			</div>
+		</li>
+
+		</ul>
+	</div>
+	<!-- <div class="sidebar">
+
+	<h3 class="achievements">Recent Achievements</h3>
+	<table cellpadding="0" cellspacing="5" border="0" id="resultsTable">
+			<tr>
+				<td colspan="2" class="tournament">
+					<img class="tournamentLogo" src="./img/heir2.png">
+				<td>					
+			</tr>
+			<tr class="result">
+				<td class="pic">
+				 	<img class="tiny" src="./img/watson2.jpg">
+				</td>
+				<td>
+					13th
+				</td>
+			</tr>
+			<tr class="result">
+				<td class="pic">
+				 	<img class="tiny" src="./img/Adam.jpg">
+				</td>
+				<td>
+					65th
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" class="tournament">
+					<img class="tournamentLogo" src="./img/sussex.png">
+				<td>					
+			</tr>
+			<tr class="result">
+				<td class="pic">
+				 	<img class="tiny" src="./img/watson2.jpg">
+				</td>
+				<td>
+					2nd
+				</td>
+			</tr>
+			<tr class="result">
+				<td class="pic">
+				 	<img class="tiny" src="./img/Adam.jpg">
+				</td>
+				<td>
+					4th
+				</td>
+			</tr>
+			</table>
+
+
+	</div>
+	</div> -->
+
+</div>
+
+</body>
+</html>

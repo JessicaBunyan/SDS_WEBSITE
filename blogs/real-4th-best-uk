@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="UTF-8">
+	<title>Blog - Team SDS</title>
+
+	<link rel="stylesheet" type="text/css" href="../css/SDS.css">
+	<link rel="stylesheet" type="text/css" href="../css/article.css">
+	<link rel="stylesheet" type="text/css" href="../css/real-4th-best.css">
+
+
+<script src="http://code.jquery.com/jquery-2.0.3.js"></script>
+</head>
+<style type="text/css"></style>
+
+
+<body>
+
+<div class="header">
+<a href="../index" ><img src="../img/SDSLogo.png" class="logo"></a></div>
+
+</div>
+<ul id="navBar">
+
+<li ><a   href="../index">Home</a></li>
+<li><a href="../about">About</a></li>
+<li><a href="../events">Events</a></li>
+<li ><a class="active" href="../blog">Blog</a></li>
+<li><a href="../players">Players</a></li>
+<li><a href="../rules">Rules</a></li>
+<li id="last"><a href="../partners">Partners</a></li>
+</ul>
+
+<div class="centerer">
+	<div class="column">
+	<!-- All stuff goes inside this column div -->
+
+		<div class="test">
+
+		<div class="article">
+			
+			<!-- <div class="left"> -->
+			<div class="top">
+				<!-- <div class="left"> -->
+					<h2 class="article-title">The Real 4th Best in the UK</h2>
+					
+
+			<p class="regular">
+	The landscape of UK Melee has long been dominated by three titans. Over the years the three have battled for supremecy yet no other competitor has managed to break into their ranks. Many have tried, yet all have failed and the three - VwS' Professor Pro, Revolution's Fuzzyness and Vanity Angel - have proved time and time again that they truly are the gods of UK Melee.</p>
+<p class="quote" id="five-hundred">
+						'£500 is on the line, yet none of the top three are there to take it'
+					</p>
+
+<p class="regular">
+The consistency and skill of these players has helped the UK stand out as a threat in Europe, yet has brought with it a certain predictability; whenever there is serious money on the line, one of the three will come to take home the riches.</p>
+
+
+<p class="regular">
+At SCR11 this August however, there’s something unusual happening. £500 is on the line, yet none of the top three will be there to take it. This might just be the first chance the UK’s up-and-comers have to take home a slice of the hefty prize pool, and assert themselves as the biggest threat to the Melee status quo. Here's a look at some the players who'll be duking it out for first place at SCR11.
+
+			</p>
+			</div>
+
+<div class="middle">
+
+			<figure>
+			<img id="frenzy" src="../img/blog/frenzy.png">	
+			<figcaption><em>Elliot "Frenzy" Grossman</em><br>Photo credit:  <a href="https://www.flickr.com/photos/137972425@N06/">Jordan Bailey</a></figcaption>
+			</figure>
+			
+
+				<!-- </div> -->
+
+			<!-- </div> -->
+				<!-- <div class="right">
+					<img id="tekk" src="./img/blog/tekksmaller.png">
+				</div> -->
+			<!-- </div> -->
+
+
+
+<p class="question">
+Frenzy</p>
+<p class="regular">
+The UK’s fiercest up and comer, Elliot ‘Frenzy’ Grossman has been tearing through the competition in the last few months. In the spring 2016 rankings the fresh-faced falco main earned a modest 15th place, yet in the past two months alone has taken sets from numerous top 10 players including R23, Alpha Dash and Deathgazer. Will Frenzy be able to overcome his problems with fatigue and take the top spot? </p>
+
+<!-- <p class="regular">
+The furious falco's record speaks for itself, few doubt that he will continue his streak of taking down big names at the upcoming tournament, yet in the past has struggled with tournament fatigue. With multiple best of 5 sets ahead of him, will the rising star be able to emerge on top? 
+</p> -->
+			
+		
+
+			<p class="question">
+Dev</p>
+
+<p class="regular">Filip ‘Dev’ Nilsson has been competing for 10 years, and since his move to the London in 2015 he has been the only player to crack the top 3, taking one set from both Fuzzyness and Vanity Angel. Coming into the event the Swedish veteran looks to be the favourite, though with recent losses to both Alpha Dash and R23, it will be no easy ride to first place.  </p>
+
+
+</div>
+<div class="middle">
+
+<!-- <p class="regular">
+	The Swede seems the likely favourite going in to the tournament, but with losses this year to both R23 and Alpha Dash
+
+</p> -->
+
+
+
+
+
+<figure>
+			<img id="alphadash" src="../img/blog/alphadash2.jpg">	
+			<figcaption><em>Dujuan "Alpha Dash" Planter</em><br>Photo credit:  <a href="https://www.facebook.com/teamheir/">Team Heir</a></figcaption>
+			</figure>
+<p class="question">
+Alpha Dash</p>
+<p class="regular">
+Close friend and practice partner of Professor Pro - Dujuan 'Alpha Dash' Planter has been a force to be reckoned with for the best part of a decade. In 2015 some thought the fearsome Ice Climbers had been figured out, with a 0-7 record against R23. In recent months however, Dujuan has pushed through to the next level, taking two consecutive sets from his former bane R23, as well as one from Dev.
+
+</p>
+
+
+<p class="question">
+SDS | R23 </p>
+<p class="regular">
+After an astonishing top 16 finish at Heir 2, tieing with top EU players Fuzzyness, Jeapie and Baxon, Alex ‘R23’ Watson has cemented his position as an international threat. Alex's biggest strength has always been his tournament mentality, allowing him to take repeated wins vs Alpha Dash, Deathgazer and Dev. With the aggressive Sheik playing on his home turf, this might finally be his chance to take home the gold, and secure his place as 4th best in the UK. </p>
+
+</div>
+
+<p class="written-by">
+Article by Duke Fay & Tristan Bunyan
+</p>
+
+<hr>
+
+<div class="bottom">
+	<!-- <img id='tekk2' src="./img/tekk.png"> -->
+
+
+<p class="bold">
+Signups for SCR11 close on August 3rd. Register now on <a href="http://www.smash.gg/SCR11">Smash.gg</a> </p>
+
+<a href="http://www.smash.gg/SCR11">
+<img class="bottom-banner" src="../img/EventBanners/SCR11.jpg">
+</a>
+
+	<!-- <ul>
+	<li>Follow Tekk on Twitter!</li>
+	<li><a href="http://www.twitter.com/TheFrenchToast">@TheFrenchToast</a></li>
+
+	<li>Team SDS on Twitter!</li>
+	<li><a href="http://www.twitter.com/smashdownsouth">@SmashDownSouth</a></li>
+	<li>Interview by Edd Cockshutt</li>
+	<li><a href="http://www.twitter.com/the_eddpire">@the_eddpire</a>
+
+	</ul> -->
+
+</div>
+
+
+
+		</div>
+
+		
+
+
+
+		</div>
+	
+
+	</div>
+
+</div>
+
+
+</body>
+</html>

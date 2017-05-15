@@ -1,0 +1,52 @@
+<div class="divForm">
+		<div id="xContainer">
+		<img class="x" src="./img/close.png">
+		</div>
+		<form id="SCR8Form" method="post" action="submit.php">
+		<label>What is your name?<br>
+			<input name="name" type="text" required placeholder="John Smith">
+		</label>
+		<label>What is your Smash Tag?<br>
+			<input name="tag" type="text" required placeholder="FalcoMaster4003">
+		</label>
+		<label>What City/Region are you from<br>
+			<input name="region" type="text" required placeholder="i.e London/Midlands/Bristol">
+		</label>
+		<label class="checkboxQ">Which events are you entering?
+			<input hidden></input>
+		</label>
+			<label class="checkbox listItem">
+				<input name="games[]" value="1" type="checkbox" name="events">Project M Singles</input>
+			</label>
+			<label class="checkbox">
+				<input name="games[]" value="2" type="checkbox" id="doublesCheckbox" name="events">Project M Doubles</input><br>
+			</label>
+
+		
+		<label id="teamPartner">Who are you teaming with?<br>
+		<input name="partner" type="text"  placeholder="Jane Smith"></label>
+		<label>How many CRTs can you bring?<br>
+		<select name="CRTs">
+			<option disabled hidden selected> -- Select an option -- </option>
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select></label>
+
+		<label>How many Melee setups can you bring?<br>
+		<select name="setups">
+			<option disabled hidden selected> -- Select an option -- </option>
+			<option value="0">0</option>
+			<option value="1">1</option>
+			<option value="2">2</option>
+			<option value="3">3</option>
+			<option value="4">4</option>
+			<option value="5">5</option>
+		</select></label>
+		<button class="submit" type="submit">Submit</button>
+
+		</form>
+		</div>
